@@ -3,21 +3,21 @@
 _Todo list but with some amazing technology_
 
 **backend**
--_javascript_
--_node+express_
--_mongodb+mongoose_
--_express session_
--_Passport Google Oauth_
--_Morgan_
--_dotenv_
--_cors_
+- _javascript_
+- _node+express_
+- _mongodb+mongoose_
+- _express session_
+- _Passport Google Oauth_
+- _Morgan_
+- _dotenv_
+- _cors_
 
 **frontend**
 **Vite**
 - _TypeScript_
--_React_
+- _React_
 - _shadcn-ui_
--_Tailwind CSS_
+- _Tailwind CSS_
 
 _This is a multi-page interface responsive web app with session management and google oauth authorization_
 _Yet it is not deployed i will deploy this app_
